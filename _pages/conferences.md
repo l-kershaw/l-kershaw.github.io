@@ -9,7 +9,7 @@ author_profile: true
 
 ## Conferences I've Helped to Organise
 * Mingle 2020 (September 2020, Bristol, UK - Online)
- * Annual postgraduate conference to welcome new mathematics students
+  * Annual postgraduate conference to welcome new mathematics students
  
 ## Previous Conferences
 * LMS Autumn Algebra School (October 2020 - Online)
