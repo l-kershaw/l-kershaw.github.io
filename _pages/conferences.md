@@ -1,6 +1,7 @@
 ---
 title: "Conferences"
 permalink: /conferences/
+excerpt: "A list of conferences I have attended/plan to attend."
 author_profile: true
 ---
 
