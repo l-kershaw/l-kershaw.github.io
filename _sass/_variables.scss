@@ -60,11 +60,26 @@ $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
 $border-color               : $lighter-gray;
 
-$primary-color              : #002F5F; /*Uni dark blue*/
-$success-color              : mix(#BED600,#53682B,50%);  /*Uni 50% green*/
-$warning-color              : #EE7219; /*Uni bright orange*/
-$danger-color               : #B01C2E; /*Uni red*/
-$info-color                 : mix(#0CC6DE,#002F5F,50%); /*Uni 50% blue*/
+$uni-red                    : #B01C2E;
+$uni-grey                   : #E5E6E5;
+$uni-bAqua                  : #00C0B5;
+$uni-dAqua                  : #00434F;
+$uni-bBlue                  : #0CC6DE;
+$uni-dBlue                  : #002F5F;
+$uni-bOrange                : #EE7219;
+$uni-dOrange                : #6D2601;
+$uni-bPurple                : #9278D1;
+$uni-dPurple                : #42145F;
+$uni-bPink                  : #E0249A;
+$uni-dPink                  : #772059;
+$uni-bLime                  : #BED600;
+$uni-dLime                  : #43682B;
+
+$primary-color              : $uni-red;
+$success-color              : mix(#fff,$uni-dLime,50%);
+$warning-color              : $uni-bOrange;
+$danger-color               : $uni-bPink;
+$info-color                 : mix(#fff,$uni-red,25%);
 
 /* brands */
 $behance-color              : #1769FF;
