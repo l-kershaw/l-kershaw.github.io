@@ -78,8 +78,8 @@ $uni-dLime                  : #43682B;
 $primary-color              : $uni-dBlue;
 $success-color              : mix(#fff,$uni-dLime,50%);
 $warning-color              : $uni-bOrange;
-$danger-color               : $uni-bPink;
-$info-color                 : mix(#fff,$uni-red,25%);
+$danger-color               : $uni-red;
+$info-color                 : mix(#fff,$primary-color,25%);
 
 /* brands */
 $behance-color              : #1769FF;
