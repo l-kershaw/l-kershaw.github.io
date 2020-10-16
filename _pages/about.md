@@ -16,3 +16,13 @@ I completed my undergraduate degree at the University of Warwick in 2019, gradua
 My dissertation focused on Tropical Geometry, supervised by [Professor Diane Maclagan](https://homepages.warwick.ac.uk/staff/D.Maclagan/).
 
 Outside of my work, I play canoe polo and enjoy cycling.
+
+## Contact
+
+Email: l.kershaw (at) bristol (dot) ac (dot) uk
+
+School of Mathematics  
+Fry Building  
+Woodland Road  
+Bristol  
+BS8 1UG
