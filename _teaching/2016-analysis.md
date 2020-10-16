@@ -12,4 +12,6 @@ Provided support for Teaching Assistant of 1<sup>st</sup> year analysis class.
 
 Summary
 ======
-
+* Help students to formalise their ideas
+* Provide feedback on answers to problems in class
+* Encourage accurate communication of mathematical ideas
