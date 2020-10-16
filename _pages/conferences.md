@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Conferences"
 permalink: /conferences/
 author_profile: true
