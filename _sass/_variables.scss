@@ -60,11 +60,11 @@ $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
 $border-color               : $lighter-gray;
 
-$primary-color              : #7a8288;
-$success-color              : #62c462;
-$warning-color              : #f89406;
-$danger-color               : #ee5f5b;
-$info-color                 : #52adc8;
+$primary-color              : #002F5F; /*Uni dark blue*/
+$success-color              : mix(#BED600,#53682B,50%);  /*Uni 50% green*/
+$warning-color              : #EE7219; /*Uni bright orange*/
+$danger-color               : #B01C2E; /*Uni red*/
+$info-color                 : #0CC6DE; /*Uni bright blue*/
 
 /* brands */
 $behance-color              : #1769FF;
