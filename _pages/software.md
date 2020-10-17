@@ -4,7 +4,6 @@ title: "Software"
 permalink: /software/
 sitemap: false
 author_profile: true
-entries_layout: grid
 redirect_from:
   - /programs
   - /coding
