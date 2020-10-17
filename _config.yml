@@ -192,7 +192,7 @@ collections:
   software:
     output: true
     permalink: /:collection/:path/
-		
+    
 
 # Defaults
 defaults:
