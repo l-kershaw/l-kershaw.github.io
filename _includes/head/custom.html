@@ -35,6 +35,7 @@
 </script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
 
+<!-- Description -->
 {% if page.summary %}
 <meta name="description" content="{{ page.summary | escape }}">
 {% else %}
@@ -42,8 +43,11 @@
 <meta name="description" content="{{ page.excerpt | escape }}">
 {% endif %}
 {% endif %}
-{%if page.tags %}
-<meta name="keywords" content="{{ page.tags | join: ', ' | escape }}"/>
+<!-- Keywords -->
+{%if page.keywords %}
+<meta name="keywords" content="{{site.keywords | join: ', ' | escape}},{{ page.keywords | join: ', ' | escape }}"/>
+{% else %}
+<meta name="keywords" content="{{site.keywords | join: ', ' | escape}}"/>
 {%endif %}
 
 <!-- MATHJAX -->
