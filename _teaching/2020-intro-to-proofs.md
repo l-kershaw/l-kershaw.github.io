@@ -6,7 +6,7 @@ permalink: /teaching/2020-intro-to-proofs
 venue: "University of Bristol, School of Mathematics"
 date: 2020-10-01
 location: "Bristol, UK"
-currenr-teaching: True
+current-teaching: "True"
 ---
 
 Help 1<sup>st</sup> year students understand how to formulate and communicate proofs.

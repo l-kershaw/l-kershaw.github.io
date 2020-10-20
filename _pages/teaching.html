@@ -11,7 +11,7 @@ author_profile: true
 ## Current Teaching
 
 {% for post in site.teaching reversed %}
-	{% if post.current-teaching is True %}
+	{% if post.current-teaching%}
 		{% include archive-single.html %}
 	{% endif %}
 {% endfor %}
@@ -19,7 +19,8 @@ author_profile: true
 ## Previous Teaching
 
 {% for post in site.teaching reversed %}
-	{% if post.current-teaching is not True %}
+	{% if post.current-teaching%}
+	{% else %}
 		{% include archive-single.html %}
 	{% endif %}
 {% endfor %}
