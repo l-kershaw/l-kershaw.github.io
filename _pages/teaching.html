@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Current Teaching
+<h2>Current</h2>
 
 {% for post in site.teaching reversed %}
 	{% if post.current-teaching%}
@@ -16,7 +16,7 @@ author_profile: true
 	{% endif %}
 {% endfor %}
 
-## Previous Teaching
+<h2>Previous</h2>
 
 {% for post in site.teaching reversed %}
 	{% if post.current-teaching%}
