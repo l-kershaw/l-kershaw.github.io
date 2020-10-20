@@ -8,6 +8,18 @@ author_profile: true
 
 {% include base_path %}
 
+## Current Teaching
+
 {% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+	{% if post.current-teaching is True %}
+		{% include archive-single.html %}
+	{% endif %}
+{% endfor %}
+
+## Previous Teaching
+
+{% for post in site.teaching reversed %}
+	{% if post.current-teaching is not True %}
+		{% include archive-single.html %}
+	{% endif %}
 {% endfor %}
