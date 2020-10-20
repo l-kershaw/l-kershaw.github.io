@@ -1,5 +1,5 @@
 ---
-permalink: /symbols
+permalink: /symbols/
 title: "Symbols"
 excerpt: "List of text symbols for copy-pasting"
 sitemap: false
