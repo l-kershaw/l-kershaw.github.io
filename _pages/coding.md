@@ -1,18 +1,18 @@
 ---
 layout: archive
-title: "Software"
-permalink: /software/
+title: "Coding"
+permalink: /coding/
 sitemap: false
 author_profile: true
 redirect_from:
   - /programs
-  - /coding
+  - /software
 ---
 
 
 
 {% include base_path %}
 
-{% for post in site.software reversed %}
+{% for post in site.coding reversed %}
   {% include archive-single.html %}
 {% endfor %}
