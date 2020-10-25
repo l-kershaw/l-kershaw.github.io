@@ -469,27 +469,3 @@ a.reversefootnote {
   font-weight: bold;
 }
 
-/*
-   iframe
-   ========================================================================== */
-
-/*.iframe-container {
-  overflow: hidden;
-	position: relative;
-	padding-top: 200.00%;
-  @include breakpoint($large) {
-		/* 2:1 aspect ratio */
-		padding-top: 50.00%;
-	}
-}
-
-.iframe-container iframe {
-   border: 0;
-   height: 100%;
-   left: 0;
-   position: absolute;
-   top: 0;
-   width: 100%;
-	 overflow: hidden;
-}
-*/
