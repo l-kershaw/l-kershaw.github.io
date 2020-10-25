@@ -11,8 +11,7 @@ current-teaching: "True"
 
 Help 1<sup>st</sup> year students understand how to formulate and communicate proofs.
 
-Summary
-======
+## Summary
 * Run fortnightly tutorials to review lectures and answer student questions
 * Help build student's ability to deal with abstract mathematical ideas
 * Encourage accurate communication of mathematical arguments

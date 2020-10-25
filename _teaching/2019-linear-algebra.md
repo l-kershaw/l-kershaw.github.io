@@ -10,8 +10,7 @@ location: "Bristol, UK"
 
 Support 1<sup>st</sup> year students with Linear Algebra content.
 
-Summary
-======
+## Summary
 * Run fortnightly tutorials to review lectures and answer student questions
 * Help build student's intuition for course material
 * Encourage accurate communication of mathematical ideas

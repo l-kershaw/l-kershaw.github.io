@@ -10,8 +10,7 @@ location: "Coventry, UK"
 
 Mentor and support two groups of five 1<sup>st</sup> year students with all core modules.
 
-Summary
-======
+## Summary
 * Weekly supervisions to review new material and answer questions from students
 * Encourage accurate communication of mathematical ideas
 * Marking submitted homeworks in a timely manner
