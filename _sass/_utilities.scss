@@ -475,9 +475,12 @@ a.reversefootnote {
 
 .iframe-container {
   overflow: hidden;
-  /* 16:9 aspect ratio */
-  padding-top: 56.25%;
-  position: relative;
+	position: relative;
+	padding-top: 200.00%;
+  @include breakpoint($large) {
+		/* 2:1 aspect ratio */
+		padding-top: 50.00%;
+	}
 }
 
 .iframe-container iframe {
@@ -487,4 +490,5 @@ a.reversefootnote {
    position: absolute;
    top: 0;
    width: 100%;
+	 overflow: hidden;
 }
