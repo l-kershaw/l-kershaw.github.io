@@ -5,10 +5,12 @@
 .iframe-container {
   overflow: hidden;
 	position: relative;
-	padding-right: 40.00%;
+	padding-top: 200.00%;
+	width: 300;
   @include breakpoint($large) {
 		/* 2:1 aspect ratio */
 		padding-top: 50.00%;
+		width: 100%
 	}
 }
 
