@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Coding"
+title: "Coding Projects"
 permalink: /coding/
 sitemap: false
 author_profile: true
