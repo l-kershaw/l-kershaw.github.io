@@ -19,7 +19,8 @@ Outside of my work, I play canoe polo and enjoy cycling.
 
 ## Contact
 
-Email: l.kershaw (at) bristol (dot) ac (dot) uk
+Email: l.kershaw (at) bristol (dot) ac (dot) uk  
+Pronouns: he, him, his
 
 School of Mathematics  
 Fry Building  
