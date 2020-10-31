@@ -20,7 +20,7 @@
           {% if teaser contains "://" %}
             "{{ teaser }}"
           {% else %}
-            "{{ teaser | prepend: "/images/" | prepend: base_path }}"
+            "{{ teaser | prepend: '/images/' | prepend: base_path }}"
           {% endif %}
           alt="">
       </div>
@@ -32,12 +32,14 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
+		<table style="border: none"><tr>
     {% if post.read_time %}
-      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
+      <td class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</td>
     {% endif %}
-    {% if post.date %}<p class="page__meta"><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ post.date | date: '%B %Y' }}</p>{% endif %}
-		{% if post.code_language %}<p class="page__meta"><i class="fa fa-fw fa-code" aria-hidden="true"></i> {{post.code_language}}</p>{% endif %}
-    {% if post.venue %}<p class="archive__item-excerpt" itemprop="description">{{post.type}}, {{ post.venue }},  {{post.location}} {% endif %}
-    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}
+    {% if post.date %}<td class="page__meta"><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ post.date | date: '%B %Y' }}</td>{% endif %}
+		{% if post.code_language %}<td class="page__meta"><i class="fa fa-fw fa-code" aria-hidden="true"></i> {{post.code_language}}</td>{% endif %}
+    {% if post.venue %}<td class="archive__item-excerpt" itemprop="description">{{post.type}}, {{ post.venue }},  {{post.location}}</td>{% endif %}
+    {% if post.excerpt %}<td class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</td>{% endif %}
+		</tr></table>
   </article>
 </div>
