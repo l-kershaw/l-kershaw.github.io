@@ -42,8 +42,8 @@ layout: default
 					{% elsif page.date %}
 						<td style="border: none" class="page__details"><i class="fa fa-fw fa-calendar" aria-hidden="true"></i><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %Y" }}</time></td>
 					{% endif %}
-					{% if page.code_language %}<td style="border: none" class="page__details"><i class="fa fa-fw fa-code" aria-hidden="true"></i>Language: {{page.code_language}}</td>{% endif %}
-							 
+					{% if page.code_language %}<td style="border: none" class="page__details"><i class="fa fa-fw fa-code" aria-hidden="true"></i>{{page.code_language}}</td>{% endif %}
+
 					{% if page.citation and page.paperurl %}
 						<td style="border: none">Recommended citation: {{ page.citation }} <a href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a></td>
 					{% elsif page.citation %}
