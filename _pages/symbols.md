@@ -20,3 +20,13 @@ sitemap: false
 ⊊ : subsetneq
 
 ⊋ : supsetneq
+
+∘ : composition
+
+⇔ : if and only if
+
+⇒ : implies
+
+≤ : less than or equal to
+
+≥ : greater than or equal to
