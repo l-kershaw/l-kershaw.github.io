@@ -10,7 +10,7 @@ author_profile: true
 
 The following is a list of my current and previous teaching.
 
-<h2>Current</h2>
+<h2 class="list__header">Current</h2>
 
 {% for post in site.teaching reversed %}
 	{% if post.current-teaching %}
@@ -18,7 +18,7 @@ The following is a list of my current and previous teaching.
 	{% endif %}
 {% endfor %}
 
-<h2>Previous</h2>
+<h2 class="list__header">Previous</h2>
 
 {% for post in site.teaching reversed %}
 	{% if post.current-teaching %}

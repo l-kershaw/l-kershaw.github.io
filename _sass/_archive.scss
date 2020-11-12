@@ -89,6 +89,10 @@
    List view
    ========================================================================== */
 
+.list__header{
+  margin-top: 2em;
+}
+
 .list__item {
   @include breakpoint($medium) {
     padding-right: $right-sidebar-width-narrow;

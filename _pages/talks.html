@@ -12,13 +12,13 @@ author_profile: true
 
 {% endif %}
 
-<h2><i class="fa fa-fw fa-graduation-cap" aria-hidden="true"></i> Academic</h2>
+<h2 class="list__header"><i class="fa fa-fw fa-graduation-cap" aria-hidden="true"></i> Academic</h2>
 
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
 
-<h2><i class="fa fa-fw fa-handshake" aria-hidden="true"></i> Outreach</h2>
+<h2 class="list__header"><i class="fa fa-fw fa-handshake" aria-hidden="true"></i> Outreach</h2>
 
 {% for post in site.outreach reversed %}
   {% include archive-single-nolink.html %}
