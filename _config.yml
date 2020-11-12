@@ -48,7 +48,7 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
-keywords 								 : ['Luke Kershaw','Bristol','math','maths','PhD','representation theory','homological algebra','algebra','abelian categories','academia']	
+keywords 								 : ['Luke Kershaw','Bristol','math','maths','PhD','representation theory','homological algebra','algebra','abelian categories','academia']
 
 # SEO Related
 google_site_verification : google2e5bcff805e2af2a.html
@@ -193,7 +193,10 @@ collections:
   coding:
     output: true
     permalink: /:collection/:path/
-    
+  outreach:
+    output: true
+    permalink: /:collection/:path/
+
 
 # Defaults
 defaults:
@@ -256,6 +259,14 @@ defaults:
       type: talks
     values:
       layout: talk
+      author_profile: true
+      share: false
+  # _outreach
+  - scope:
+      path: ""
+      type: outreach
+    values:
+      layout: single
       author_profile: true
       share: false
 

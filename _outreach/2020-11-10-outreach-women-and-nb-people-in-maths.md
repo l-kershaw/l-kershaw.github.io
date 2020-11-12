@@ -1,10 +1,10 @@
 ---
-title: "Frieze Patterns and Cluster Algebras"
+title: "Auslander Reiten Quivers"
 collection: talks
-type: "Seminar talk"
-permalink: /talks/2020-11-13-talk-frieze-patterns
+type: "Outreach"
+permalink: /talks/2020-11-10-outreach
 venue: "University of Bristol, School of Mathematics"
-date: 2020-11-13
+date: 2020-11-10
 location: "Bristol, UK"
 ---
 

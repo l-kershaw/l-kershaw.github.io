@@ -13,7 +13,7 @@ The following is a list of my current and previous teaching.
 <h2>Current</h2>
 
 {% for post in site.teaching reversed %}
-	{% if post.current-teaching%}
+	{% if post.current-teaching %}
 		{% include archive-single.html %}
 	{% endif %}
 {% endfor %}
@@ -21,7 +21,7 @@ The following is a list of my current and previous teaching.
 <h2>Previous</h2>
 
 {% for post in site.teaching reversed %}
-	{% if post.current-teaching%}
+	{% if post.current-teaching %}
 	{% else %}
 		{% include archive-single.html %}
 	{% endif %}

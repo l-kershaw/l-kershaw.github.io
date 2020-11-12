@@ -12,6 +12,14 @@ author_profile: true
 
 {% endif %}
 
+<h2>Academic</h2>
+
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
+{% endfor %}
+
+<h2>Outreach</h2>
+
+{% for post in site.outreach reversed %}
+  {% include archive-single-nolink.html %}
 {% endfor %}
