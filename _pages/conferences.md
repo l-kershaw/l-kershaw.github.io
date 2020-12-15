@@ -13,6 +13,7 @@ Events in *italics* are where I gave a talk.
   * Annual postgraduate conference to welcome new mathematics students
 
 ## Previous Conferences
+* Mathematics of Big Data: lessons from COVID-19 (December 2020 - Online)
 * BYMAT 2020 (December 2020 - Online)
 * ICRA 2020 (November 2020 - Online)
 * LMS Autumn Algebra School (October 2020 - Online)
