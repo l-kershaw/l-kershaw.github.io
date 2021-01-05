@@ -9,7 +9,7 @@ Below is a list of the conferences I have attended.
 Events in *italics* are where I gave a talk.
 
 ## Conferences I've Helped to Organise
-* *Mingle 2020 (September 2020, Bristol, UK - Online)* \[[Talk](/talks/2020-09-25-talk-SET)\]
+* *Mingle 2020 (September 2020, Bristol, UK - Online)* \[[Talk](/talks/2020-09-25-talk-set-theory)\]
   * Annual postgraduate conference to welcome new mathematics students
 
 ## Previous Conferences
