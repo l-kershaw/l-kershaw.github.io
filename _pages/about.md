@@ -15,7 +15,7 @@ working under the supervision of [Professor Jeremy Rickard](https://people.maths
 I completed my undergraduate degree at the University of Warwick in 2019, graduating with a First in the integrated Masters Mathematics (MMath) course.
 My dissertation focused on Tropical Geometry, supervised by [Professor Diane Maclagan](https://homepages.warwick.ac.uk/staff/D.Maclagan/).
 
-Outside of my work, I play canoe polo and enjoy cycling.
+Outside of my research, I contribute to some open source projects (see my [GitHub](https://github.com/l-kershaw)) and play canoe polo.
 
 ## Contact
 
