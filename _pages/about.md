@@ -8,18 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the School of Mathematics, at the University of Bristol, UK.
-My research focuses on homological algebra and the representation theory of finite dimensional algebras,
-working under the supervision of [Professor Jeremy Rickard](https://people.maths.bris.ac.uk/~majcr/). 
+Current final year PhD student in Mathematics at the University of Bristol.
+Using custom developed software for data generation and hypothesis testing to research representation theory.
+Experienced in problem solving across research and industry using programming and data science.
+Highly organised and able to work effectively in a team or individually.
+Looking for software development roles.
 
-I completed my undergraduate degree at the University of Warwick in 2019, graduating with a First in the integrated Masters Mathematics (MMath) course.
-My dissertation focused on Tropical Geometry, supervised by [Professor Diane Maclagan](https://homepages.warwick.ac.uk/staff/D.Maclagan/).
+My PhD research focuses on homological algebra and the representation theory of special biserial algebras,
+working under the supervision of [Professor Jeremy Rickard](https://people.maths.bris.ac.uk/~majcr/).
 
 Outside of my research, I contribute to some open source projects (see my [GitHub](https://github.com/l-kershaw)) and play canoe polo.
 
 ## Contact
 
-Email: l.kershaw (at) bristol (dot) ac (dot) uk  
+Email: luke.a.kershaw (at) gmail (dot) com  
 Pronouns: he, him, his
 
 School of Mathematics  
