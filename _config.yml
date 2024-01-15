@@ -10,7 +10,7 @@ locale                   : "en-UK"
 title                    : "Luke Kershaw"
 title_separator          : "-"
 name                     : &name "Luke Kershaw"
-description              : &description "PhD Student at University of Bristol"
+description              : &description "Software Developer"
 url                      : https://l-kershaw.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "l-kershaw/l-kershaw.github.io"
@@ -48,7 +48,8 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
-keywords 								 : ['Luke Kershaw','Bristol','math','maths','PhD','representation theory','homological algebra','algebra','abelian categories','academia']
+keywords 				 : ['Luke Kershaw','London','software developer','Acturis',
+                            'Bristol','math','maths','PhD','representation theory','homological algebra','algebra','abelian categories','academia']
 
 # SEO Related
 google_site_verification : google2e5bcff805e2af2a.html
@@ -83,14 +84,14 @@ analytics:
 author:
   name             : "Luke Kershaw"
   avatar           : "profile.jpg"
-  bio              : "Mathematics PhD Student at University of Bristol"
-  location         : "Bristol, UK"
-  location-link    : "https://goo.gl/maps/EVhcLdoTwctwdyD7A"
-  employer         : "University of Bristol"
-  employer-link    : "http://www.bristol.ac.uk/maths/"
+  bio              : "Software Developer"
+  location         : "London, UK"
+  location-link    :  # "https://goo.gl/maps/EVhcLdoTwctwdyD7A"
+  employer         : "Acturis Ltd"
+  employer-link    : "https://www.acturis.com/"
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  # "http://yourfullgooglescholarurl.com"
-  email            : "l.kershaw@bristol.ac.uk"
+  email            :  # "l.kershaw@bristol.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
